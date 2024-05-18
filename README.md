@@ -1,1 +1,1 @@
-# vamos a clonar el repositorio al local
+# vamos a clonar el repositorio remoto al local
