@@ -1,1 +1,1 @@
-# clon-curso_git
+# vamos a clonar el repositorio al local
